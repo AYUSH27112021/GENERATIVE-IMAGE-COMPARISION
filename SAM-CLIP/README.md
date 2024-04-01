@@ -1,11 +1,15 @@
 # CLIP-SAM
 
-Small experiment on combining CLIP with SAM to do open-vocabulary image segmentation.
+Combining the CLIP with SAM.
 
 - [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything)
 - [Contrastive Language-Image Pre-Training (CLIP)](https://github.com/openai/CLIP)
 
-The approach is to first identify all the parts of an image using SAM, and then use CLIP to find the ones that best match a specific description.
+Steps Outlined
+* User Input: We take the user's question or prompt as input.
+* Keyword Extraction: We analyze the user's input and identify the most important words and phrases (keywords). These keywords represent what the user is interested in within the image.
+* Image Segmentation: We use a technique called SAM (Semantic Annotation Model) to break down the image. This process essentially divides the image into its different parts, like objects, backgrounds, and textures.
+* Matching Keywords to Image Parts: We use CLIP (Contrastive Language-Image Pre-training) to compare each keyword with each segmented part of the image. CLIP helps us understand how well each part of the image relates to the keywords.
 
 ## Usage
 
