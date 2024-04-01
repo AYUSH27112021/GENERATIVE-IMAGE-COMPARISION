@@ -1,7 +1,10 @@
 # GENERATIVE-IMAGE-COMPARISION
 Testing different Models and Algortithms to compare various image generative models
 
-#*OpenAI CLIP* using Dot Product With Prompts and KeyWords
-#*SAM-CLIP* using SAM in combination with CLIP Model
-#*FID* ongoing
-#*CHAIR* onging 
+# <strong>OpenAI CLIP</strong> using Dot Product With Prompts and KeyWords
+
+# <strong>SAM-CLIP</strong> using SAM in combination with CLIP Model
+
+#**FID** ongoing
+
+#**CHAIR** onging 
