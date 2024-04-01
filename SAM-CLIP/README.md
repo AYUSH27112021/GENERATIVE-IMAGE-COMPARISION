@@ -4,6 +4,7 @@ Combining the CLIP with SAM.
 
 - [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything)
 - [Contrastive Language-Image Pre-Training (CLIP)](https://github.com/openai/CLIP)
+- [keyBERT](https://maartengr.github.io/KeyBERT/#about-the-project)
 
 Steps Outlined
 * User Input: We take the user's question or prompt as input.
@@ -17,6 +18,7 @@ Steps Outlined
 
 2. Install dependencies:
 ```python
+    pip install keybert
     pip install torch opencv-python Pillow
     pip install git+https://github.com/openai/CLIP.git
     pip install git+https://github.com/facebookresearch/segment-anything.git
