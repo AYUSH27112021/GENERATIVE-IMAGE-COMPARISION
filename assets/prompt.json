@@ -1,0 +1,41 @@
+{
+    "images": [
+      {
+        "file": "/assets/areoplane_prompt.jpg",
+        "prompt": "A plane flying in a stormy sky with lightning striking."
+      },
+      {
+        "file": "/assets/car.jpg",
+        "prompt": "A red Hyundai Grand i10 NIOS car displayed in a showroom setting."
+      },
+      {
+        "file": "/assets/dinosaure.jpg",
+        "prompt": "A cartoon-style red dinosaur with an angry expression."
+      },
+      {
+        "file": "/assets/dog.jpg",
+        "prompt": "A happy dog wearing a colorful scarf standing on green grass."
+      },
+      {
+        "file": "/assets/example-image.jpg",
+        "prompt": "A bowl of fresh fruit including strawberries, kiwi, cherries, and watermelon."
+      },
+      {
+        "file": "/assets/plane.jpg",
+        "prompt": "A white passenger airplane flying in a clear blue sky."
+      },
+      {
+        "file": "/assets/tree.jpg",
+        "prompt": "A large, solitary tree standing in the middle of a grassy field under a blue sky."
+      },
+      {
+        "file": "/assets/woman.jpg",
+        "prompt": "A woman looking upwards with a thoughtful expression, standing against a backdrop of dry branches."
+      },
+      {
+        "file": "/assets/man_in_tux.png",
+        "prompt": "man in tux with a giant cheeseburger head by junji ito"
+      }
+    ]
+  }
+  

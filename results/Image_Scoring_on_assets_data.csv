@@ -1,0 +1,9 @@
+Path,Prompt,ASTHETIC_SCORE,CLIP,Q_ALING Quality score,Q_ALING Asthetic score,SAM_CLIP,Final score
+/assets/areoplane_prompt.jpg,A plane flying in a stormy sky with lightning striking.,0.382363881,0.657407857,0.496958561,0.682755114,0.768414666,0.597580016
+/assets/car.jpg,A red Hyundai Grand i10 NIOS car displayed in a showroom setting.,0.60089786,0.157654984,0.37539985,0.921932471,0.942401787,0.59965739
+/assets/dinosaure.jpg,A cartoon-style red dinosaur with an angry expression.,0.326335323,0.434324573,0.80395113,0.67166608,0.578217697,0.56289896
+/assets/dog.jpg,A happy dog wearing a colorful scarf standing on green grass.,0.810810566,0.478061003,0.628524527,0.897691043,0.572311279,0.677479683
+/assets/example-image.jpg,"A bowl of fresh fruit including strawberries, kiwi, cherries, and watermelon.",0.595923469,0.128567908,0.555934907,0.649748048,0.944839792,0.575002825
+/assets/plane.jpg,A white passenger airplane flying in a clear blue sky.,0.801011987,0.608361565,0.57297031,0.78753669,0.882161528,0.730408416
+/assets/tree.jpg,"A large, solitary tree standing in the middle of a grassy field under a blue sky.",0.345672065,0.387621161,0.409579757,0.942890854,0.938840496,0.604920867
+/assets/woman.jpg,"A woman looking upwards with a thoughtful expression, standing against a backdrop of dry branches.",0.235803681,0.450758686,0.574557615,0.848389739,0.892708718,0.600443688
