@@ -11,7 +11,7 @@ The framework evaluates images using the following metrics:
 - **SAM CLIP**: Segments the image and evaluates the relevance of segmented parts to the prompt.
 - **IQA PyTorch**: (Optional) Provides an Image Quality Assessment if weights are available.
 
-![Diagram](https://github.com/AYUSH27112021/GENERATIVE-IMAGE-COMPARISION/results/Framework/Quality_Assurance_framework.png")
+![Diagram]("https://github.com/AYUSH27112021/GENERATIVE-IMAGE-COMPARISION/blob/main/results/Framework/Quality_Assurance_framework.png")
 
 ## Components
 
