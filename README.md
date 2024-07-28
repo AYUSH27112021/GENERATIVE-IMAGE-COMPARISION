@@ -34,7 +34,7 @@ The framework evaluates images using the following metrics:
 
 1. **Clone the Repository**:
     ```bash
-    git clone GENERATIVE-IMAGE-COMPARISION
+    git clone https://github.com/AYUSH27112021/GENERATIVE-IMAGE-COMPARISION.git
     cd "GENERATIVE-IMAGE-COMPARISION"
     ```
 
