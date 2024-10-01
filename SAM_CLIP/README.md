@@ -19,17 +19,12 @@ The Metric performs the following steps:
 ## Setup and Installation
 
 1. **Clone the Repository**:
-    ```bash
-    git clone https://github.ecodesamsung.com/SRIB-PRISM/CITB_23RSG25_Develop_a_Quality_Assurance_framework_for_Image_Generation_Models
-    cd "CITB_23RSG25_Develop_a_Quality_Assurance_framework_for_Image_Generation_Models"
-    cd SAM_CLIP
-    ```
-3. **Download Model Weights**:
+2. **Download Model Weights**:
     Download and place the pre-trained SAM model weights (`sam_vit_h_4b8939.pth`) from [here](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#model-checkpoints) and place in the appropriate directory.
 
 ### Command Line Interface
 
-To process an image and a prompt using SAM and CLIP models:
+3. To process an image and a prompt using SAM and CLIP models:
 ```bash
 python Sam_Clip.py <image_path> <prompt>
 ```
