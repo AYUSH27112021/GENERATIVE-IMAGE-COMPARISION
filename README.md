@@ -1,4 +1,4 @@
-# Generative-Image-Comparision Models
+# Generative-Image-Comparision Metrics
 
 This framework utilizes various evaluation metrics to provide a combined and normalized score that assesses the quality and relevance of generated images based on input prompts.
 
