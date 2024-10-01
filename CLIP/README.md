@@ -22,14 +22,7 @@ The framework performs the following steps:
 ## Setup and Installation
 
 1. **Clone the Repository**:
-    ```bash
-    git clone https://github.ecodesamsung.com/SRIB-PRISM/CITB_23RSG25_Develop_a_Quality_Assurance_framework_for_Image_Generation_Models
-    cd "CITB_23RSG25_Develop_a_Quality_Assurance_framework_for_Image_Generation_Models"
-    cd CLIP
-    ```
-    
 ## Usage
-
 ### Command Line Interface
 
 To process an image and get the aesthetic score:
