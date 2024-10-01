@@ -20,11 +20,5 @@ The framework performs the following steps:
 ## Setup and Installation
 
 1. **Clone the Repository**:
-    ```bash
-    git clone https://github.ecodesamsung.com/SRIB-PRISM/CITB_23RSG25_Develop_a_Quality_Assurance_framework_for_Image_Generation_Models
-    cd "CITB_23RSG25_Develop_a_Quality_Assurance_framework_for_Image_Generation_Models"
-    cd FID
-    ```
-
 2. **Custom Model Training**:
     The weights from online image recognition models were found insufficient for our study. Therefore, training a custom model on a custom dataset is necessary.
