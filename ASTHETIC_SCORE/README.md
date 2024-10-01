@@ -22,18 +22,11 @@ The framework performs the following steps:
 ## Setup and Installation
 
 1. **Clone the Repository**:
-    ```bash
-    git clone https://github.ecodesamsung.com/SRIB-PRISM/CITB_23RSG25_Develop_a_Quality_Assurance_framework_for_Image_Generation_Models
-    cd "CITB_23RSG25_Develop_a_Quality_Assurance_framework_for_Image_Generation_Models"
-    cd ASTHETIC_SCORE
-    ```
-
 2. **Install Dependencies**:
     Ensure you have Python installed. Install the required Python packages:
     ```bash
     pip install -r requirements.txt
     ```
-
 3. **Download Model Weights**:
     Download the pre-trained weights for the MLP model (`sac+logos+ava1-l14-linearMSE.pth`) and place them in the appropriate directory.
 
